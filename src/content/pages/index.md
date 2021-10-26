@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning Software developer, based in Dallas Texas. Studying Electrical Engineering at University of Texas.
+He is an award-winning software developer, based in Dallas Texas. Studying Electrical Engineering at the University of Texas.
