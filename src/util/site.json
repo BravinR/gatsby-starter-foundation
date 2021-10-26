@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Bravin's Blog",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Hi, meet Bravin. He is the owner of this blog. Don't worry he is still learning too. Buy him coffee it will make him smile :) ",
+    "siteUrl": "https://bravinr.netlify.app/",
+    "image": "/assets/android-chrome-192x192.png",
+    "iconimage": "/assets/android-chrome-192x192.png",
+    "twitterUsername": "@BravinRutto"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-6GQSEW3MZC"
 }
