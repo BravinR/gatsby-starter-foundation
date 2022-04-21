@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Bravin Rutto
 tagline: Software Developer
-featuredImage: /assets/whatsapp-image-2021-10-26-at-2.16.07-am.jpeg
+featuredImage: /assets/delete.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
